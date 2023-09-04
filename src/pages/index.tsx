@@ -33,7 +33,7 @@ export default function Index({ posts, tags, pagination }: Props) {
             Welcome on <span className="fancy">{config.site_title}</span>
           </h1>
           <span className="handle">{config.twitter_account}</span>
-          <h2>Mengulas beragam aplikasi dan tutorial sesuai trend saat ini</h2>
+          <h2>Another Blog by Google text to speech engine enthusiasts</h2>
           <ShareList url={`/`} text={config.site_title} />
         </div>
       </div>
