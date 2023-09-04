@@ -1,3 +1,7 @@
 [build]
   publish = "dist"
   command = "npm run export"
+  
+[context.production]
+  publish = "/opt/build/repo/dist"
+  environment = { BROWSERSLIST_DISABLE_CACHE = "1 npx webpack" }
