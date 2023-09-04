@@ -4,11 +4,11 @@ const path = require('path');
 const frontMatter = require('front-matter');
 
 const blogPostDir = path.resolve(__dirname, 'content', 'posts');
-const base_url = 'https://teknosia.netlify.app/';
+const base_url = 'https://soundoftext.netlify.app/';
 
 const feed = new RSS({
-  title: 'Teknosia Blog',
-  description: 'Personal Blog perihal Teknologi dan Aplikasi Terkini',
+  title: 'Sound of text Netlify Blog',
+  description: 'Welcome to Sound of Text, the intersection where text meets sound to create a dynamic and enriching communication experience',
   feed_url: base_url + `rss.xml`,
   site_url: base_url,
   author: 'Teknosia',
