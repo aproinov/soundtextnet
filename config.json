@@ -1,7 +1,7 @@
 {
-  "base_url": "https://teknosia.netlify.app",
-  "site_title": "Teknosia Blog",
-  "site_description": "Personal Blog perihal Teknologi dan Aplikasi Terkini",
+  "base_url": "https://soundoftext.netlify.app",
+  "site_title": "Sound of Text Blog",
+  "site_description": "Sound of text offcial netlify blog portal",
   "site_keywords": [
     {
       "keyword": "Tutorial"
@@ -10,12 +10,15 @@
       "keyword": "Text to speech"
     },
     {
-      "keyword": "Aplikasi"
+      "keyword": "Apps"
     },
+    {
+      "keyword": "Android"
+    }
     {
       "keyword": "Android"
     }
   ],
   "posts_per_page": 6,
-  "twitter_account": "@teknosia_id"
+  "twitter_account": "@minivnutrition"
 }
