@@ -1,15 +1,3 @@
 [build]
   publish = "dist"
   command = "npm run export"
-  commandOrigin = "config"
-  publish = "/opt/build/repo/dist"
-  publishOrigin = "config"
-
-[environment]
-  BROWSERSLIST_DISABLE_CACHE = ""
-  NEXT_PRIVATE_TARGET = ""
-
-[[plugins]]
-  origin = "ui"
-  package = "@netlify/plugin-nextjs"
-  inputs = {} 
