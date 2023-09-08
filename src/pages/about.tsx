@@ -18,16 +18,16 @@ export default function Index() {
                     </h1>
                     <span className="handle">Tentang Kami</span>
 
-                    <p>Teknosia merupakan tempat Anda beristirahat sejenak dari penatnya kehidupan di era digital.
+                    <p>Soundoftext merupakan tempat Anda beristirahat sejenak dari penatnya kehidupan di era digital.
                         Kami rangkum tulisan terbaik dan mencerahkan sebagai sumber informasi perihal tutorial dan
-                        penggunaan aplikasi terkini.</p>
+                        penggunaan aplikasi text to speech terkini.</p>
 
                     <p>Seiring dengan massive nya perkembangan teknologi, kamu menyadari mungkin ada beberapa
                         panduan yang kurang akurat, oleh karenanya, kami selalu menanti kontribusi serta kritik dan
                         saran Anda untuk kemajuan Blog Teknosia.</p>
 
                     <p>Untuk menghubungi tim kami, Anda dapat mengirimkan surat elektronik ke alamat
-                        teknosia.netlify[at]gmail.com.</p>
+                        techblog[at]pm.me atau mengunjungi langsung situs <a href="https://www.voiceoftext.com/p/sound-of-text-wa.html">sound of text</a>.</p>
 
                     <ShareList url={`/`} text={config.site_title} />
                 </div>
