@@ -5,7 +5,8 @@ export default function Copyright() {
         <a href="/privacy">Privacy</a> &nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="/about">About</a> &nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="/terms">Terms</a> &nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; 
-        <a href="/disclaimer">Disclaimer</a>
+        <a href="/disclaimer">Disclaimer</a> &nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; 
+        <a href="https://www.sebuahutas.com/sound-of-text/">Sebuahutas.com</a>
       </div><br />&copy; 2022 - Teknosia</p>
       <style jsx>
         {`
