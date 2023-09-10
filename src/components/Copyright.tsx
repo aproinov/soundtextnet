@@ -7,7 +7,7 @@ export default function Copyright() {
         <a href="/terms">Terms</a> &nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="/disclaimer">Disclaimer</a> &nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://www.sebuahutas.com/sound-of-text/">Tools</a>
-      </div><br />&copy; 2022 - Teknosia</p>
+      </div><br />&copy; 2023 - Soundoftext Netlify</p>
       <style jsx>
         {`
           p {
