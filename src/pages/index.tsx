@@ -59,7 +59,7 @@ export default function Index({ posts, tags, pagination }: Props) {
     <p>To illustrate the capabilities of "Sound of Text," here are some examples of text-to-speech creations related to anime characters:</p>
     <ul>
         <li><a href="../wa_masuk_id.mp3">MP3 1:</a> WhatsApp Ringtone.</li>
-        <li><a href="../sebut_nama_aliwa_masuk_id.mp3">mp3 2:</a> WA Caller Name.</li>
+        <li><a href="../sebut_nama_ali.mp3">mp3 2:</a> WA Caller Name.</li>
     </ul>
 
     <p>These examples showcase the versatility and quality of voice generation using "Sound of Text."</p>
