@@ -33,7 +33,6 @@ export default function Index({ posts, tags, pagination }: Props) {
             Welcome on <span className="fancy">{config.site_title}</span>
           </h1>
           <span className="handle">{config.twitter_account}</span>
-          <h2>Another Blog by Google text to speech engine enthusiast</h2>
               <h2>Introduction to Text-to-Speech (TTS) Technology</h2>
     <p>Text-to-Speech (TTS) technology is a revolutionary advancement that allows text to be converted into spoken words. This technology has found applications in various fields, from accessibility features for the visually impaired to enhancing user experiences in virtual assistants and audiobooks.</p>
 
