@@ -45,7 +45,7 @@ export default function Index({ posts, tags, pagination }: Props) {
     <h2>How to Use "Sound of Text" for Anime</h2>
     <p>Let's dive into how you can use "Sound of Text" to bring your favorite anime characters to life:</p>
     <ol>
-        <li><strong>Access the Website:</strong> Start by visiting <a href="https://www.soundoftext.com">www.soundoftext.com</a>.</li> or <a href="https://www.voiceoftext.com/p/sound-of-text-wa.html">sound of text wa</a>a>
+        <li><strong>Access the Website:</strong> Start by visiting <a href="https://www.soundoftext.com">www.soundoftext.com</a> or <a href="https://www.voiceoftext.com/p/sound-of-text-wa.html">sound of text wa</a>.</li>
         <li><strong>Input Your Text:</strong> On the website, you'll find a text box where you can enter the dialogue or text you want to convert into speech.</li>
         <li><strong>Select a Language and Voice:</strong> "Sound of Text" offers a variety of languages and voices to choose from. Pick the one that best suits your anime character.</li>
         <li><strong>Generate the Audio:</strong> Click the "Generate mp3" button, and within seconds, you'll have a downloadable audio file of your text in the chosen voice.</li>
@@ -65,7 +65,7 @@ export default function Index({ posts, tags, pagination }: Props) {
     <p>These examples showcase the versatility and quality of voice generation using "Sound of Text."</p>
 
     <h2>Alternatives and Competing Tools</h2>
-    <p>While "Sound of Text" is a fantastic tool, it's not the only option available for anime voice generation. You might also consider alternatives like <a href="https://www.toolx.com">Tool X</a> or <a href="https://www.websitey.com">Website Y</a>, each with its unique features and capabilities.</p>
+    <p>While "Sound of Text" is a fantastic tool, it's not the only option available for anime voice generation. You might also consider alternatives like Uberduck AI or FakeYou, each with its unique features and capabilities.</p>
 
     <h2>Tips and Best Practices</h2>
     <p>To get the best results when using "Sound of Text" or any TTS tool for anime voice generation, consider these tips:</p>
