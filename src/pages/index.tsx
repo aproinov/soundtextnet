@@ -46,7 +46,7 @@ export default function Index({ posts, tags, pagination }: Props) {
     <h2>How to Use "Sound of Text" for Anime</h2>
     <p>Let's dive into how you can use "Sound of Text" to bring your favorite anime characters to life:</p>
     <ol>
-        <li><strong>Access the Website:</strong> Start by visiting <a href="https://www.soundoftext.com">www.soundoftext.com</a>.</li>
+        <li><strong>Access the Website:</strong> Start by visiting <a href="https://www.soundoftext.com">www.soundoftext.com</a>.</li> or <a href="https://www.voiceoftext.com/p/sound-of-text-wa.html">sound of text wa</a>a>
         <li><strong>Input Your Text:</strong> On the website, you'll find a text box where you can enter the dialogue or text you want to convert into speech.</li>
         <li><strong>Select a Language and Voice:</strong> "Sound of Text" offers a variety of languages and voices to choose from. Pick the one that best suits your anime character.</li>
         <li><strong>Generate the Audio:</strong> Click the "Generate mp3" button, and within seconds, you'll have a downloadable audio file of your text in the chosen voice.</li>
@@ -59,8 +59,8 @@ export default function Index({ posts, tags, pagination }: Props) {
     <h2>Sample Creations</h2>
     <p>To illustrate the capabilities of "Sound of Text," here are some examples of text-to-speech creations related to anime characters:</p>
     <ul>
-        <li><a href="sample1.mp3">Sample 1:</a> A heroic protagonist's battle cry.</li>
-        <li><a href="sample2.mp3">Sample 2:</a> A mischievous sidekick's witty one-liner.</li>
+        <li><a href="../src/assets/wa_masuk_id.mp3">MP3 1:</a> WhatsApp Ringtone.</li>
+        <li><a href="../src/assets/nama_sayang.mp3">mp3 2:</a> WA Caller Name.</li>
     </ul>
 
     <p>These examples showcase the versatility and quality of voice generation using "Sound of Text."</p>
