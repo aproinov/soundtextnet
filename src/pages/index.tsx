@@ -37,15 +37,15 @@ export default function Index({ posts, tags, pagination }: Props) {
     <p>Text-to-Speech (TTS) technology is a revolutionary advancement that allows text to be converted into spoken words. This technology has found applications in various fields, from accessibility features for the visually impaired to enhancing user experiences in virtual assistants and audiobooks.</p>
 
     <h2>Anime and TTS</h2>
-    <p>The intersection of TTS technology and anime is an intriguing one. Anime enthusiasts and content creators often seek ways to generate authentic anime character voices using TTS, which has led to the emergence of tools and websites like <a href="https://www.soundoftext.com">Sound of Text</a>.</p>
+    <p>The intersection of TTS technology and anime is an intriguing one. Anime enthusiasts and content creators often seek ways to generate authentic anime character voices using TTS, which has led to the emergence of tools and websites like <a href="https://soundoftext.co.id">Sound of Text</a>.</p>
 
     <h2>Sound of Text Website</h2>
-    <p>"Sound of Text" is a user-friendly online tool that provides a simple and effective way to generate text-to-speech audio. Users can access this tool at <a href="https://www.soundoftext.com">www.soundoftext.com</a>. It has gained popularity among anime fans for its ability to create custom anime character voices.</p>
+    <p>"Sound of Text" is a user-friendly online tool that provides a simple and effective way to generate text-to-speech audio. Users can access this tool at <a href="https://soundoftext.com">www.soundoftext.com</a>. It has gained popularity among anime fans for its ability to create custom anime character voices.</p>
 
     <h2>How to Use "Sound of Text" for Anime</h2>
     <p>Let's dive into how you can use "Sound of Text" to bring your favorite anime characters to life:</p>
     <ol>
-        <li><strong>Access the Website:</strong> Start by visiting <a href="https://www.soundoftext.com">www.soundoftext.com</a> or <a href="https://www.voiceoftext.com/p/sound-of-text-wa.html">sound of text wa</a>.</li>
+        <li><strong>Access the Website:</strong> Start by visiting <a href="https://soundoftext.com">www.soundoftext.com</a> or <a href="https://www.voiceoftext.com/p/sound-of-text-wa.html">sound of text wa</a>.</li>
         <li><strong>Input Your Text:</strong> On the website, you'll find a text box where you can enter the dialogue or text you want to convert into speech.</li>
         <li><strong>Select a Language and Voice:</strong> "Sound of Text" offers a variety of languages and voices to choose from. Pick the one that best suits your anime character.</li>
         <li><strong>Generate the Audio:</strong> Click the "Generate mp3" button, and within seconds, you'll have a downloadable audio file of your text in the chosen voice.</li>
